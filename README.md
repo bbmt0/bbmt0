@@ -26,6 +26,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 07 August 2024 - To: 11 August 2024
+
+Markdown     39 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.63 %
+JavaScript   4 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.37 %
+Java         2 mins          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.00 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
