@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋&center=true&size=30&color=000000&duration=3000&pause=5000">
 </h1>
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Look+mom,+I'm+famous+➡️&center=true&size=20&color=000000&duration=6000&pause=15000">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bbmt0?style=flat&logo=github" style="margin-top: -20px;">
 </div>
 
@@ -15,6 +14,13 @@
 <div style="width: 400px;">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bbmt0)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
 </div>
 <div style="width: 700px;">
 
