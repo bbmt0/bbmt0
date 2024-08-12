@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bbmt0)](https://git.io/streak-stats)
 </div>
-<div style="width: 600px;">
+<div style="width: 700px;">
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bbmt0)](https://github.com/anuraghazra/github-readme-stats)
 </div>
