@@ -8,6 +8,10 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bbmt0?style=flat&logo=github" style="margin-top: -20px;">
 </div>
 
+## 📝 About me
+- Recently graduated with a Master's Degree in Computer Science with a focus on web and mobile development.
+- Looking for a job abroad to discover new things (and improve my English).
+- Passionate about music, I'm developing a [multiplayer game](https://github.com/bbmt0/Musigame) on this theme in React and Spring. 
 ## 📈 Some GitHub stats 
 
 <div align="center">
