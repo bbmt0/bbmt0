@@ -46,12 +46,6 @@ CSV          24 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img alt="Recently played songs" src="https://spotify-recently-played-readme.vercel.app/api?user=3134vqgtqas5un4bui3lfu3vpqve&count=7">
 </p>
 
-## 💭 Quote of the day 
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
-
 ## 📚 Other stuff
 <div align="center">
 
