@@ -1,9 +1,6 @@
 
 <img src="https://socialify.git.ci/bbmt0/bbmt0/image?font=Source%20Code%20Pro&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118280237%3Fv%3D4&name=1&pattern=Signal&theme=Dark" alt="bbmt0" width="100%" height="280" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋&center=true&size=30&color=000000&duration=3000&pause=5000">
-</h1>
 <div style="display: flex; align-items: center; justify-content: center;">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bbmt0?style=flat&logo=github" style="margin-top: -20px;">
 </div>
