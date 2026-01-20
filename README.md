@@ -21,27 +21,8 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bbmt0)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 07 August 2024 - To: 17 January 2026
-
-Python            11 hrs 10 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.31 %
-JavaScript        6 hrs 35 mins   ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.57 %
-Java              4 hrs 45 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.46 %
-Markdown          1 hr 17 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.00 %
-Text              30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.00 %
-```
-
-<!--END_SECTION:waka-->
-
 </div>
 
-## 🎧 My recently played songs 
-
-<p align="center">
-  <img alt="Recently played songs" src="https://spotify-recently-played-readme.vercel.app/api?user=3134vqgtqas5un4bui3lfu3vpqve&count=7">
-</p>
 
 ## 📚 Other stuff
 <div align="center">
